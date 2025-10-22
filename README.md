@@ -102,7 +102,7 @@ La deadline pour ce projet est pour **le Vendredi 28 Février 2025**.
 
 ## Entretien
 
-Un entretien technique aura lieu le **Vendredi 28 Février 2025** à **10h30** au siège de Legrand WEB Services à Nagrin, Ouagadougou.
+Un entretien technique aura lieu le **Lundi 27 Octobre 2025** à **10h30** au siège de Legrand WEB Services à Nagrin, Ouagadougou.
 
 Nous discuterons des points suivants :
   - Les technologies front-end et back-end utilisées.
