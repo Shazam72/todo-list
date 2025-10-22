@@ -39,7 +39,7 @@ Créer une API REST en utilisant Laravel pour gérer les tâches.
     [https://github.com/Shazam72/todo-list](https://github.com/Shazam72/todo-list)
 
 ### Délai
-La deadline pour ce projet est pour **le Vendredi 28 Février 2025**.
+La deadline pour ce projet est pour **le Lundi 27 Octobre 2025**.
 
 ## Procédure de contribution au projet
 
