@@ -12,7 +12,7 @@ Construire une interface simple pour afficher une liste de tâches.
   - Utiliser le framework React.
 
 ### Back-End :
-Créer une API REST en utilisant Laravel pour gérer les tâches.
+Créer une API REST en utilisant NodeJS/Express pour gérer les tâches.
   - Points d'API à créer :
     - **POST /register** : Création de compte
     - **POST /login** : Authentification
@@ -30,7 +30,7 @@ Créer une API REST en utilisant Laravel pour gérer les tâches.
   ```
   todo-list/
   ├── front-end/ # fait avec ReactJS
-  ├── back-end/  # fait avec Laravel
+  ├── back-end/  # fait avec NodeJS/ExpressJS
   ```
 
 ### Contrôle de version :
@@ -116,7 +116,7 @@ Nous discuterons des points suivants :
 ### Conseils:
 
 - Avant de commencer, assurez-vous de comprendre les exigences et les fonctionnalités attendues pour le projet
-- Utilisez les routes, les contrôleurs et les modèles de Laravel pour créer une API REST robuste et sécurisée
+- Utilisez les routes, les contrôleurs et les modèles de NodeJS/ExpressJS pour créer une API REST robuste et sécurisée
 - Utilisez les requêtes et les réponses pour gérer les interactions entre l'API et les clients
 - Le résultat compte dans l'évaluation de la performance mais le processus de travail et de réflexion sera le point clé (sinon le plus important) dans l'évaluation alors prenez votre temps ; )
 - N'hésitez à me contacter en cas d'incompréhension:
@@ -127,4 +127,4 @@ Nous discuterons des points suivants :
 
 -  Freecodecamp: [https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/](https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/)
 -  ReactJS Docs: [https://react.dev/](https://react.dev/)
--  Laravel Docs: [https://laravel.com/docs/11.x/readme](https://laravel.com/docs/11.x/readme)
+-  NodeJS/ExpressJS Docs: [https://NodeJS/ExpressJS.com/docs/11.x/readme](https://NodeJS/ExpressJS.com/docs/11.x/readme)
