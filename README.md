@@ -127,4 +127,5 @@ Nous discuterons des points suivants :
 
 -  Freecodecamp: [https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/](https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/)
 -  ReactJS Docs: [https://react.dev/](https://react.dev/)
--  NodeJS/ExpressJS Docs: [https://NodeJS/ExpressJS.com/docs/11.x/readme](https://NodeJS/ExpressJS.com/docs/11.x/readme)
+-  NodeJS Docs: [https://nodejs.org/docs/latest/api/](https://nodejs.org/docs/latest/api/)
+-  ExpressJS Docs: [https://expressjs.com/](https://expressjs.com/)
